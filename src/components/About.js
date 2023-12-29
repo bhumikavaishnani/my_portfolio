@@ -10,13 +10,13 @@ export default function About() {
                         <br className="hidden lg:inline-block" />I love to build amazing websites.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    As a senior developer with extensive industry experience, I have spent the last 5 years as a Senior Laravel Developer with total 8 years of experience in PHP as well as experience in React.js with 1 year of experience. Currently, I am working on NodeJS, Express.js and mongo DB project as backend along with Shopify and React.js as frontend on e-commerce website for my internship.   
+                    I am a senior developer with 8years of industry experience, having worked with PHP, Laravel, WordPress, Shopify, React.js, and Vue.js. I have experience in a variety of fields, including cloud computing, blockchain technology, application development, and web development. I recently worked on e-commerce website project that used Shopify and React.js as the frontend and Node.js, Express.js, and MongoDB as the backend.
 
-I am experienced in deploying projects on AWS and have seamlessly worked on both Windows and Ubuntu operating systems.
+My expertise lies in project deployment on AWS, and I have worked with both Windows and Ubuntu (Linux) operating systems with ease.
 
-My experience working with clients has honed my communication skills, and I am confident in my ability to participate in daily stand-up meetings and provide updates on project progress.
+My communication skills have improved via working with customers, and I feel secure in my abilities to contribute to daily stand-up meetings and give updates on the status of projects.
 
-If you're looking for a developer who is both experienced and eager to expand their skill set, please don't hesitate to reach out on LinkedIn. I am always excited to explore new opportunities and contribute my expertise to new projects.
+Please don’t hesitate to approach out on LinkedIn or via email if you’re seeking for a developer who is keen to enhance their skill set and has experience. I'm constantly eager to take advantage of new chances and lend my experience to fresh endeavors.
                     </p>
                     <div className="flex justify-center">
                         <a

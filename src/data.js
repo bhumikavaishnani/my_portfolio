@@ -53,7 +53,7 @@ export const projects = [
       quote : "Bhumika is one of the best, most reliable developer you'll come across. Her ability to write high-quality, accurate code for any website shows her dedication in job. Trust me, if I get a chance I'll hire her and work with her happily."
     },
     {
-      name : "Rich Hillmond",
+      name : "Andrew Thomson",
       company : "therapy sessions",
       quote : "Bhumika is always ready to accept challenges in task. Her team is very understandable and supportive. She has always ready to do task or meetings according to my expectations. "
     }
