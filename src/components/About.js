@@ -10,7 +10,7 @@ export default function About() {
                         <br className="hidden lg:inline-block" />I love to build amazing websites.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    I am a senior developer with 8years of industry experience, having worked with PHP, Laravel, WordPress, Shopify, React.js, and Vue.js. I have experience in a variety of fields, including cloud computing, blockchain technology, application development, and web development. I recently worked on e-commerce website project that used Shopify and React.js as the frontend and Node.js, Express.js, and MongoDB as the backend.
+                    I am a senior developer with 8 years of industry experience, having worked with PHP, Laravel, WordPress, Shopify, React.js, and Vue.js. I have experience in a variety of fields, including cloud computing, blockchain technology, application development, and web development. I recently worked on e-commerce website project that used Shopify and React.js as the frontend and Node.js, Express.js, and MongoDB as the backend.
 
 My expertise lies in project deployment on AWS, and I have worked with both Windows and Ubuntu (Linux) operating systems with ease.
 
