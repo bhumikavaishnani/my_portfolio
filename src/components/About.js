@@ -10,13 +10,7 @@ export default function About() {
                         <br className="hidden lg:inline-block" />I love to build amazing websites.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    I am a senior developer with 8 years of industry experience, having worked with PHP, Laravel, WordPress, Shopify, React.js, and Vue.js. I have experience in a variety of fields, including cloud computing, blockchain technology, application development, and web development. I recently worked on e-commerce website project that used Shopify and React.js as the frontend and Node.js, Express.js, and MongoDB as the backend.
-
-My expertise lies in project deployment on AWS, and I have worked with both Windows and Ubuntu (Linux) operating systems with ease.
-
-My communication skills have improved via working with customers, and I feel secure in my abilities to contribute to daily stand-up meetings and give updates on the status of projects.
-
-Please don’t hesitate to approach out on LinkedIn or via email if you’re seeking for a developer who is keen to enhance their skill set and has experience. I'm constantly eager to take advantage of new chances and lend my experience to fresh endeavors.
+                    As a senior developer with 8 years of professional experience, I have a robust background in PHP, Laravel, WordPress, Shopify, React.js, and Vue.js. My diverse expertise extends across multiple domains, including Hospitality, Real Estate, Media, Job Portal, and Ecommerce. I possess hands-on experience in various domains such as cloud computing, blockchain technology and web development. Proficient in project deployment on AWS, I seamlessly navigate both Windows and Ubuntu (Linux) operating systems. My interactions with customers have significantly enhanced my communication skills, enabling me to confidently contribute to daily stand-up meetings and provide project updates. Feel free to connect with me on LinkedIn or via email if you are seeking a developer eager to show their skill set with considerable experience. I am consistently enthusiastic about taking new opportunities and applying my expertise to fresh endeavors.
                     </p>
                     <div className="flex justify-center">
                         <a
