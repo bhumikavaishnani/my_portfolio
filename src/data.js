@@ -35,9 +35,9 @@ export const projects = [
 
   export const skills = [
    "PHP, Laravel, Shopify, Wordpress, Java",
+   "React.JS, Vue.JS, node.js, express.js",
    "MySQL, AWS RDBMS, SQL Server, POSTGreSQL, mongoDB",
    "AWS services like EC2, load balancer, S3",
-   "React.JS, Vue.JS, node.js, express.js",
    "OOP features, Entity Framework, MVC, Razor pages,",
    "JavaScript, HTML, jQuery, AJAX and CSS",
    "RESTful API, POSTMAN, SDLC, PMLC life cycle",
