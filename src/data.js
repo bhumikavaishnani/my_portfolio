@@ -34,14 +34,14 @@ export const projects = [
   ];
 
   export const skills = [
-   "PHP, Laravel, Shopify, Wordpress, Java",
-   "React.JS, Vue.JS, node.js, express.js",
-   "MySQL, AWS RDBMS, SQL Server, POSTGreSQL, mongoDB",
-   "AWS services like EC2, load balancer, S3",
-   "OOP features, Entity Framework, MVC, Razor pages,",
+   "React.JS, Vue.JS, Node.js, Express.js, TypeScript",
+   "PHP, Laravel, Shopify, Wordpress, Symfony",
+   "MySQL, AWS RDBMS, SQL Server, POSTGreSQL, MongoDB",
+   "AWS, Azure, Netlify",
+   "OOP features, MVC, microservices architecture, CI/CD pipeline",
    "JavaScript, HTML, jQuery, AJAX and CSS",
-   "RESTful API, POSTMAN, SDLC, PMLC life cycle",
-   "GitHub, GitLab, bitbucket",
+   "RESTful API, microservices, POSTMAN, SDLC",
+   "Git, GitHub, GitLab, bitbucket",
    "windows, ubuntu, linux",
    "JIRA, Asana, trello"
   ];
